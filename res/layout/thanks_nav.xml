@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="horizontal"
+	android:id="@+id/thanks_nav_layout"
+    android:background="#86222222" >
+    <TextView
+        android:id="@+id/nav_menu"
+        android:layout_width="160dp"
+        android:layout_height="fill_parent"
+        android:background="#FFF"
+        android:text="aaaaaaaaa" />
+    <Button
+        android:id="@+id/nav_shadow"
+        android:layout_width="0dp"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        android:background="@android:color/transparent" />"
+
+</LinearLayout>
